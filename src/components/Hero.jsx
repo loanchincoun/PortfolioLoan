@@ -1,7 +1,7 @@
 import React from "react";
 import { ArrowRight, Download, Github } from "lucide-react";
 import photoProfil from "../assets/LoanCHINCOUN.jpg";
-import cvPdf from "../assets/CV_Loan_CHINCOUN.pdf";
+import cvPdf from "../assets/CV_Loan CHINCOUN_DEVELOPPEUR_FULL_STACK.pdf";
 
 export default function Hero() {
   return (
