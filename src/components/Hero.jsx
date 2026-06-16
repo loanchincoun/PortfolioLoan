@@ -1,6 +1,7 @@
 import React from "react";
 import { ArrowRight, Download, Github } from "lucide-react";
 import photoProfil from "../assets/LoanCHINCOUN.jpg";
+import cvPdf from "../assets/CV_Loan_CHINCOUN.pdf";
 
 export default function Hero() {
   return (
@@ -33,7 +34,7 @@ export default function Hero() {
 
           <a
             className="btn secondary"
-            href="/CV_Loan_CHINCOUN.pdf"
+            href={cvPdf}
             download
           >
             Télécharger mon CV
