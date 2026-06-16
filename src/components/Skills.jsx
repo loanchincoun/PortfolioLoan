@@ -1,7 +1,7 @@
 import React from "react";
 const skills = {
   Backend: ["Java", "Spring Boot", "Hibernate", "Maven", "Node.js", "Python", "REST API"],
-  Frontend: ["React", "React Native", "HTML", "CSS", "PHP", "Power Apps"],
+  Frontend: ["React", "React Native", "HTML", "CSS", "PHP", "Power Apps","Angular"],
   "Low-Code & Automation": ["Power Automate", "Make", "Botpress", "OpenAI"],
   Databases: ["MySQL", "PostgreSQL", "SQL Server", "MongoDB", "Oracle", "Firestore", "Airtable"],
   "Cloud & DevOps": ["Docker", "Kubernetes", "Git", "GitLab"],
