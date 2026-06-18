@@ -16,7 +16,7 @@ export const projects = [
       "Chatbot conçu pour aider les PME à automatiser la relation client, les rendez-vous et les relances.",
     stack: ["Botpress", "Make", "Airtable", "OpenAI", "Gmail"],
     features: ["FAQ automatique", "Prise de rendez-vous", "Relances", "Workflow automatisé"],
-    github: "#",
+    github: "",
     demo: "",
   },
   {
@@ -27,7 +27,7 @@ export const projects = [
     stack: ["Java", "Android Studio", "Firebase", "Firestore"],
     features: ["Authentification", "Avis", "Favoris", "Listings"],
     github: "https://github.com/loanchincoun/CampusStay",
-    demo: "#",
+    demo: "",
   },
   {
     title: "PhishGuard",

@@ -20,7 +20,7 @@ export default function App() {
         <Contact />
       </main>
       <footer>
-        <p>© 2026 Loan CHINCOUN. Built with React & Vite.</p>
+        <p>© 2026 Loan CHINCOUN. Built with React </p>
       </footer>
     </>
   )

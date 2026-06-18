@@ -17,7 +17,7 @@ export default function Projects() {
               <span>{project.category}</span>
               <div>
                 <a href={project.github} target="_blank" aria-label="GitHub"><Github size={18} /></a>
-                <a href={project.demo} target="_blank" aria-label="Demo"><ExternalLink size={18} /></a>
+                {/*<a href={project.demo} target="_blank" aria-label="Demo"><ExternalLink size={18} /></a>*/}
               </div>
             </div>
 
